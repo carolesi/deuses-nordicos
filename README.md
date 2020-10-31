@@ -1,3 +1,3 @@
-# zerotohero
+# zerotohero/Deuses Nórdicos
 
-Grupo de estudos sobre Desenvolvimento Web promovido por @Estela01 e @schafferjrdev.
+Projeto do Grupo de estudos sobre Desenvolvimento Web promovido por @Estela01 e @schafferjrdev.
