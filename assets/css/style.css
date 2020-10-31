@@ -3,6 +3,10 @@
     src: url("../fonts/RUNE.TTF");
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 header,
 footer,
 nav {
@@ -13,6 +17,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url("../images/textureBG.png");
+    font-family: Futhark;
 }
 
 header {
@@ -113,4 +118,13 @@ li a {
 .parallax.final {
     background-image: url("../images/foto3.jpg");
     background-position: center;
+}
+
+#toTop {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    background-color: #ddd;
+    display: none;
+    cursor: pointer;
 }
