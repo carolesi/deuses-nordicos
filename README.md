@@ -1,3 +1,4 @@
-# zerotohero/Deuses Nórdicos
+# Deuses Nórdicos
 
-Projeto do Grupo de estudos sobre Desenvolvimento Web promovido por @Estela01 e @schafferjrdev.
+Projeto desenvolvido no grupo de estudos ZeroToHero.
+Grupo sobre Desenvolvimento Web promovido por @Estela01 e @schafferjrdev.
